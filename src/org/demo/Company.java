@@ -9,4 +9,8 @@ public class Company {
 	private void two() {
 		System.out.println("Two");
 	}
+
+	private void three() {
+		System.out.println("Three");
+	}
 }
