@@ -10,7 +10,5 @@ public class Company {
 		System.out.println("Two");
 	}
 
-	private void four() {
-		System.out.println("Four");
-	}
+	
 }
